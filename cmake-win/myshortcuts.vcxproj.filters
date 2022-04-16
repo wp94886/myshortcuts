@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\MyProjects\my-exec_001\myshortcuts\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\MyProjects\my-exec_001\myshortcuts\ShortcutProvider.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\MyProjects\my-exec_001\myshortcuts\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{43A29F00-A9D1-3B20-BEE4-D18949685088}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

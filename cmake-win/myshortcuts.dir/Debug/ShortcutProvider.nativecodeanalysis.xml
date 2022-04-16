@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>E:\MyProjects\my-exec_001\myshortcuts\cmake-win\</FILEPATH>
+      <FILENAME>ShortcutProvider.cpp</FILENAME>
+      <LINE>23</LINE>
+      <COLUMN>16</COLUMN>
+    </SFA>
+    <DEFECTCODE>6031</DEFECTCODE>
+    <DESCRIPTION>Return value ignored: 'CoInitialize'.</DESCRIPTION>
+    <FUNCTION>ShortcutProvider::Create</FUNCTION>
+    <DECORATED>?Create@ShortcutProvider@@QEAAJPEAD000H00H@Z</DECORATED>
+    <FUNCLINE>11</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>

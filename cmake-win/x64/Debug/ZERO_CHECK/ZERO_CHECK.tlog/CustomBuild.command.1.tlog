@@ -1,0 +1,10 @@
+^E:\MYPROJECTS\MY-EXEC_001\MYSHORTCUTS\CMAKE-WIN\CMAKEFILES\2606385FDB1AD0FC0C4FEAACE785B01E\GENERATE.STAMP.RULE
+setlocal
+"D:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/MyProjects/my-exec_001/myshortcuts -BE:/MyProjects/my-exec_001/myshortcuts/cmake-win --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file E:/MyProjects/my-exec_001/myshortcuts/cmake-win/myshortcuts.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

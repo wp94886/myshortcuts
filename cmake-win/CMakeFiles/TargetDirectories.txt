@@ -1,0 +1,3 @@
+E:/MyProjects/my-exec_001/myshortcuts/cmake-win/CMakeFiles/myshortcuts.dir
+E:/MyProjects/my-exec_001/myshortcuts/cmake-win/CMakeFiles/ALL_BUILD.dir
+E:/MyProjects/my-exec_001/myshortcuts/cmake-win/CMakeFiles/ZERO_CHECK.dir
